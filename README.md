@@ -1,4 +1,4 @@
-# 🔧 Virtual FPGA with JIT Compiler
+# 🔧 FPGA x JIT: A hybrid FPGA JIT compiler
 This project implements a Virtual FPGA (Field Programmable Gate Array) environment powered by a JIT (Just-In-Time) Compiler backend. It simulates key hardware components like LUTs, Flip-Flops, and Registers, while integrating LLVM-based JIT compilation for runtime execution of hardware logic described in a high-level language.
 A software simulation of an FPGA environment, integrated with a Just-In-Time (JIT) compiler using LLVM. This project allows users to define and execute digital circuits virtually, simulating hardware behavior with high performance.
 
